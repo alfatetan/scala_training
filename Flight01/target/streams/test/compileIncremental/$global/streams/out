@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 4 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 4 Scala sources to /Users/sr/Projects/Flight01/target/scala-2.12/test-classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.0.1:compile for Scala 2.12.3[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.0.1:compile for Scala 2.12.3[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 43720cae for Scala compiler version 2.12.3[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/sr/.sdkman/candidates/java/8.0.412-amzn/jre/lib/resources.jar:/Users/sr/.sdkman/candidates/java/8.0.412-amzn/jre/lib/rt.jar:/Users/sr/.sdkman/candidates/java/8.0.412-amzn/jre/lib/sunrsasign.jar:/Users/sr/.sdkman/candidates/java/8.0.412-amzn/jre/lib/jsse.jar:/Users/sr/.sdkman/candidates/java/8.0.412-amzn/jre/lib/jce.jar:/Users/sr/.sdkman/candidates/java/8.0.412-amzn/jre/lib/charsets.jar:/Users/sr/.sdkman/candidates/java/8.0.412-amzn/jre/lib/jfr.jar:/Users/sr/.sdkman/candidates/java/8.0.412-amzn/jre/classes:/Users/sr/.sbt/boot/scala-2.12.3/lib/scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/sr/Projects/Flight01/target/scala-2.12/test-classes:/Users/sr/Projects/Flight01/target/scala-2.12/classes:/Users/sr/.ivy2/cache/org.scalactic/scalactic_2.12/bundles/scalactic_2.12-3.0.1.jar:/Users/sr/.sbt/boot/scala-2.12.3/lib/scala-reflect.jar:/Users/sr/.ivy2/cache/org.scalatest/scalatest_2.12/bundles/scalatest_2.12-3.0.1.jar:/Users/sr/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.5.jar:/Users/sr/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.12/bundles/scala-parser-combinators_2.12-1.0.4.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 2.402400916 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m

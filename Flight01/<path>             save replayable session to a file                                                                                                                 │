@@ -1,0 +1,23 @@
+var x = 10
+var x = "ten"
+var x = 10
+var a: String = "3"
+a
+a+3
+a+8
+println(a)
+a += 3
+a
+a += 88
+a
+def add(x:Int, y:String)=x+y
+add(3,"dfdf")
+add(3,"3")
+def add2(x:Int, y:String):String = x+y
+add2(2,"3")
+var a = 10
+var b = 20
+foo(3, "")
+println(foo(3, ""))
+foo(20, "")
+println(foo(20, ""))

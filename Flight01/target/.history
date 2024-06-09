@@ -1,0 +1,6 @@
+:help
+exit
+sbt console
+sbt --help
+:help
+exit
