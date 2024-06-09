@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/sr/Projects/scala_training/Flight01/sample.scala:1:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef foo(x: Int) = if (x > 10) {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sr/Projects/scala_training/Flight01/sample.scala:9:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mprintln(foo(3))[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sr/Projects/scala_training/Flight01/sample.scala:10:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mprintln(foo(300))[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
