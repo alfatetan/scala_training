@@ -10,6 +10,7 @@ s charAt 1
 // println "hello" // will not compile
 
 System.out println "hello"
+System.out.println("hello")
 
 // --- apply and update
 
@@ -33,6 +34,6 @@ val z = 10
 
 val xs = List(1,2,3)
 xs(1)  // works
-// xs(1) = 10 // does not compile
+//xs(1) = 10 // does not compile
 
 
