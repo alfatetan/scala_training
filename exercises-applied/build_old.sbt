@@ -1,6 +1,6 @@
 name := "Scala-Applied-Exercises"
 
-version in ThisBuild := "1.5-SNAPSHOT"
+version in ThisBuild := "1.0-SNAPSHOT"
 
 scalaVersion in ThisBuild := "2.12.17"
 
