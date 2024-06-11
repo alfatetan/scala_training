@@ -4,6 +4,10 @@ val list1: List[String] = List("scooby", "dooby", "doo")
 val array2 = Array(1,2,3)
 val list2 = List("scooby", "dooby", "doo")
 
+def lengthOfList(xs: List[Any]): Int = xs.size
+
+lengthOfList(list2)
+
 def squareRootsOf(xs: List[Int]): List[Double] = {
   for (x <- xs) yield math.sqrt(x)
 }

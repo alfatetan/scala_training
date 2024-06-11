@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/sr/Projects/scala_training/exercises-applied/module03/target/scala-2.12/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Module03Solutions.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BlankValues.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Module03Solutions$ComplexNum.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BlankValues$___.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StopOnFirstFailure.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KoanSuite.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Module03.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BlankValues$ReplaceWithCorrectException.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BlankValues$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/sr/Projects/scala_training/exercises-applied/module03/target/scala-2.12/test-classes.bak[0m
