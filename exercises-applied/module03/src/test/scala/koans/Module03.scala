@@ -30,7 +30,7 @@ class Module03 extends KoanSuite with Matchers with SeveredStackTraces {
   // are far from exhaustive
 
   // UNCOMMENT BELOW
-  /* test ("Create a new Complex number and check the values for the real/imaginary parts") {
+  test ("Create a new Complex number and check the values for the real/imaginary parts") {
     val complex = new ComplexNum(4, 2)
 
     complex.real should be (4)
