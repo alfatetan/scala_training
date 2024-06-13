@@ -17,3 +17,11 @@ s"${name}s"
 raw"\t\n"
 
 """\t\n"""
+
+"Hello, \"Jane\" "
+s"""Hello, "Jane""""
+
+"""Hello!
+  |World!
+  |
+  |""".stripMargin

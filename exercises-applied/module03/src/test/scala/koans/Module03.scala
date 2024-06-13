@@ -31,6 +31,10 @@ class Module03 extends KoanSuite with Matchers with SeveredStackTraces {
 
   // UNCOMMENT BELOW
   test ("Create a new Complex number and check the values for the real/imaginary parts") {
+    class ComplexNum(val real: Double, val imaginary: Double) {
+      def this(real: Double) = this(real, 0.0)
+    }
+
     val complex = new ComplexNum(4, 2)
 
     complex.real should be (4)
@@ -38,6 +42,10 @@ class Module03 extends KoanSuite with Matchers with SeveredStackTraces {
   }
 
   test ("Create a new complex number with double values and check those values") {
+    class ComplexNum(val a: Double, val b: Double) {
+
+    }
+
     val complex = new ComplexNum(6.2, -1.5)
 
     complex.real should be (6.2)
